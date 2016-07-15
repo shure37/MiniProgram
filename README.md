@@ -1,6 +1,4 @@
 
-123 
+Exercises and study notes when learning Java.
 
-345
 
-645
