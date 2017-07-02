@@ -1,5 +1,5 @@
 
-Exercises and study notes when learning Java. In order to show some personal works.
+Exercises and study notes when learning Java. 
 The classes should be able to complie and run.
 
 #MyCalender.java
